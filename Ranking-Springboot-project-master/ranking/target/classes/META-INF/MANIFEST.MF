@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Nagashekar
+Build-Jdk: 10.0.2
+Implementation-Title: ranking
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: in.com.cg
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ranking
+Created-By: Maven Integration for Eclipse
+
